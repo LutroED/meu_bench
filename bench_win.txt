@@ -1,0 +1,5 @@
+--- Iniciando Benchmark no ProBook 4530s (Linux Mint) ---
+1. Cálculo do Fractal: 6.2086 segundos
+2. Processamento OpenCV (50 ciclos): 1.4026 segundos
+------------------------------------------------------
+TEMPO TOTAL: 7.6113 segundos
